@@ -1,14 +1,14 @@
 # trackerslist
 An updated list of public BitTorrent trackers
-##### Updated 2018-06-27 00:00:03
+#### Updated: 2019-05-15
 *These lists are automatically updated every day:*
 
 * trackers_best (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt
 * trackers_all (83 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
-* trackers_all_udp (56 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
-* trackers_all_http (21 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
-* trackers_all_https (2 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
-* trackers_all_ws (4 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
+* trackers_all_udp (46 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt
+* trackers_all_http (31 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt
+* trackers_all_https (6 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt
+* trackers_all_ws (1 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt
 
 Are you having DNS problems? These lists contains the same trackers but with IP addresses instead of domains:
 * trackers_best_ip (20 trackers) => https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt
@@ -27,5 +27,15 @@ Are you having DNS problems? These lists contains the same trackers but with IP 
 ##### Contact
 ngosang [@] hotmail [.es]
 
+##### Donations
+* BTC: [1JMkeuLX9DA8sssZLSeSvSRvS1iVCu2wNT](https://btc.com/1jmkeulx9da8ssszlsesvsrvs1ivcu2wnt)
+* ETH: [0x50A79a95878dd588A55E909dAc2eA3962D2fA46c](https://etherscan.io/address/0x50A79a95878dd588A55E909dAc2eA3962D2fA46c)
+
 ##### Third-party tools
-* [Bash script](https://github.com/oilervoss/transmission) to add these trackers to [transmission-remote](https://github.com/transmission/transmission)
+* [bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor) to add these trackers to your .torrent files
+* [transmission python script](https://github.com/blind-oracle/transmission-trackers) to add these trackers to [transmission](https://github.com/transmission/transmission)
+* [transmission bash script 1](https://github.com/AndrewMarchukov/tracker-add) to add these trackers to [transmission](https://github.com/transmission/transmission)
+* [transmission bash script 2](https://github.com/oilervoss/transmission) to add these trackers to [transmission](https://github.com/transmission/transmission)
+
+##### Third-party online tools
+* [torrenteditor](http://torrenteditor.com) to add these trackers to your .torrent files
